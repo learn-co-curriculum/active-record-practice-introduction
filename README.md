@@ -1,16 +1,11 @@
-# Title
+# Additional Practive - Active Record
 
-## Learning Goals
+This section contains advanced Active Record labs covering topics that include:
 
--SWBAT 1
--SWBAT 2
+* Advanced querying
+* Migrations
+* Complex associations
 
-## Introduction
-
-## SWBAT 1
-
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+These labs are provided as additional practice - we strongly encourage you to 
+complete all labs in the Using Active Record and Active Record Associations
+sections before attempting these labs.
