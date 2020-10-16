@@ -1,4 +1,4 @@
-# Additional Practive - Active Record
+# Additional Practice - Active Record
 
 This section contains advanced Active Record labs covering topics that include:
 
